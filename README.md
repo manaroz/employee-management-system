@@ -1,12 +1,11 @@
-# department-management
-
+# employee-management-system
 ## Tabela zawartości
 * [Podstawowe informacje](#podstawowe-informacje)
 * [Technologie](#technologie)
 * [Autor](#autor)
 
 ## Podstawowe informacje
-department-management - Employee Management System - aplikacja wykonana w ramach studiów w technologii Spring Boot, Spring Security, Spring Data JPA, JWT, React JS i MySQL database.
+employee-management-system - Employee Management System - aplikacja wykonana w ramach studiów w technologii Spring Boot, Spring Security, Spring Data JPA, JWT, React JS i MySQL database.
 	
 ## Technologie
 
