@@ -3,6 +3,7 @@
 * [Podstawowe informacje](#podstawowe-informacje)
 * [Technologie](#technologie)
 * [Autor](#autor)
+* [Nauczyciel](#Nauczyciel)
 
 ## Podstawowe informacje
 employee-management-system - Employee Management System - aplikacja wykonana w ramach studiów w technologii Spring Boot, Spring Security, Spring Data JPA, JWT, React JS i MySQL database.
@@ -19,3 +20,6 @@ employee-management-system - Employee Management System - aplikacja wykonana w r
 
 ## Autor
 * **Gosia Różańska** - [manaroz](https://github.com/manaroz)
+
+# Nauczyciel
+* **Ramesh Fadatare Java Guides** - *Course tutorial* - THANKS!
