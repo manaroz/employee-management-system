@@ -21,5 +21,6 @@ employee-management-system - Employee Management System - aplikacja wykonana w r
 ## Autor
 * **Gosia Różańska** - [manaroz](https://github.com/manaroz)
 
-# Nauczyciel
+## Nauczyciele
+* **Krystian Lewandowski** - *Nauczyciel akademicki na Uniwersytecie WSB Merito Gdańsk* - Dziękuję!
 * **Ramesh Fadatare Java Guides** - *Course tutorial* - THANKS!
